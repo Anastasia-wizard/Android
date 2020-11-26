@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="question_text">Есть ли жизнь на Луне?</string>
+    <string name="correct">нет</string>
+    <string name="wrong">да</string>
+    <string name="correct_toast">Верно!</string>
+    <string name="wrong_toast">Не верно!</string>
+</resources>
